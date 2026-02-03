@@ -22,3 +22,12 @@
 
 [⾼效构建⻓时程AI代理.pdf](https://github.com/zxq1002/PaperAnalysisByLLM/blob/15d046f4e67aed4a7623fc447ded8312803484c8/%E2%BE%BC%E6%95%88%E6%9E%84%E5%BB%BA%E2%BB%93%E6%97%B6%E7%A8%8BAI%E4%BB%A3%E7%90%86.pdf)
 原文地址：[https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
+
+[谁在掌控局⾯？现实世界⼤语⾔模型使⽤中的去权能化模式.pdf](https://github.com/zxq1002/PaperAnalysisByLLM/blob/136fed8ae65f7ac405f8b8618b51ab9d90e9810d/%E8%B0%81%E5%9C%A8%E6%8E%8C%E6%8E%A7%E5%B1%80%E2%BE%AF%EF%BC%9F%E7%8E%B0%E5%AE%9E%E4%B8%96%E7%95%8C%E2%BC%A4%E8%AF%AD%E2%BE%94%E6%A8%A1%E5%9E%8B%E4%BD%BF%E2%BD%A4%E4%B8%AD%E7%9A%84%E5%8E%BB%E6%9D%83%E8%83%BD%E5%8C%96%E6%A8%A1%E5%BC%8F.pdf)
+原文地址：[https://www.anthropic.com/research/disempowerment-patterns](https://www.anthropic.com/research/disempowerment-patterns)
+
+[AI时代的技能悖论：⽣产⼒与能⼒的博弈.pdf](https://github.com/zxq1002/PaperAnalysisByLLM/blob/136fed8ae65f7ac405f8b8618b51ab9d90e9810d/AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%8A%80%E8%83%BD%E6%82%96%E8%AE%BA%EF%BC%9A%E2%BD%A3%E4%BA%A7%E2%BC%92%E4%B8%8E%E8%83%BD%E2%BC%92%E7%9A%84%E5%8D%9A%E5%BC%88.pdf)
+原文地址：[https://www.anthropic.com/research/AI-assistance-coding-skills](https://www.anthropic.com/research/AI-assistance-coding-skills)
+
+[2026Anthropic经济指数报告.pdf](https://github.com/zxq1002/PaperAnalysisByLLM/blob/136fed8ae65f7ac405f8b8618b51ab9d90e9810d/2026Anthropic%E7%BB%8F%E6%B5%8E%E6%8C%87%E6%95%B0%E6%8A%A5%E5%91%8A.pdf)
+原文地址：[https://www.anthropic.com/research/anthropic-economic-index-january-2026-report](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)
